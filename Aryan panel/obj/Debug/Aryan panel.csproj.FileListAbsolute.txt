@@ -1,0 +1,41 @@
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\bin\Debug\Aryan panel.exe.config
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\bin\Debug\Aryan panel.exe
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\bin\Debug\Aryan panel.pdb
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\bin\Debug\Memory.xml
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\obj\Debug\Aryan panel.csproj.AssemblyReference.cache
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\obj\Debug\Aryan_panel.Form1.resources
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\obj\Debug\Aryan_panel.Properties.Resources.resources
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\obj\Debug\Aryan panel.csproj.GenerateResource.cache
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\obj\Debug\Aryan panel.csproj.CoreCompileInputs.cache
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\obj\Debug\Aryan pa.0DC67CD6.Up2Date
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\obj\Debug\Aryan panel.exe
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\obj\Debug\Aryan panel.pdb
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\obj\Debug\Aryan panel.exe.config
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\bin\Debug\Costura.dll
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\bin\Debug\Guna.UI2.dll
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\bin\Debug\Memory.dll
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\bin\Debug\PANEL.dll
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\bin\Debug\Costura.pdb
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\bin\Debug\Costura.xml
+C:\Users\Aryan Maurya\source\repos\Aryan panel\Aryan panel\bin\Debug\Memory.pdb
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\bin\Debug\Aryan panel.exe
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\bin\Debug\Aryan panel.exe.config
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\bin\Debug\Memory.xml
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\obj\Debug\Aryan panel.csproj.AssemblyReference.cache
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\obj\Debug\Aryan_panel.Form1.resources
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\obj\Debug\Aryan_panel.Form2.resources
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\obj\Debug\Aryan_panel.Properties.Resources.resources
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\obj\Debug\Aryan panel.csproj.GenerateResource.cache
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\obj\Debug\Aryan panel.csproj.CoreCompileInputs.cache
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\obj\Debug\Aryan pa.0DC67CD6.Up2Date
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\obj\Debug\Aryan panel.exe
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\obj\Debug\Aryan panel.pdb
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\bin\Debug\Aryan panel.pdb
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\bin\Debug\Costura.dll
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\bin\Debug\Guna.UI2.dll
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\bin\Debug\Memory.dll
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\bin\Debug\PANEL.dll
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\bin\Debug\Costura.pdb
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\bin\Debug\Costura.xml
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\bin\Debug\Memory.pdb
+C:\Users\Aryan Maurya\Desktop\vs\Aryan panel\Aryan panel\obj\Debug\Aryan panel.exe.config
